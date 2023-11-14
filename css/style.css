@@ -508,6 +508,10 @@ footer {
         font-size: 50%;
     }
 
+    .categories__select select + .search__input input {
+        padding: 1rem  0;
+    }
+
     .shop__items {
         grid-template-columns: repeat(2, 1fr);
         column-gap: 1.5rem;
