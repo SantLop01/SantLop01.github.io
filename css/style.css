@@ -508,6 +508,10 @@ footer {
         font-size: 50%;
     }
 
+    .categories__icon i, .search__icon i {
+        font-size: 1.8em;
+    }
+
     .categories__select select,
     .search__input input {
         font-size: 1.8em;
