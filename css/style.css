@@ -508,8 +508,10 @@ footer {
         font-size: 50%;
     }
 
-    .categories__select select + .search__input input {
-        padding: 1rem  0;
+    .categories__select select,
+    .search__input input {
+        font-size: 1.8em;
+        padding: .8rem  0;
     }
 
     .shop__items {
